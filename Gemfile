@@ -21,3 +21,7 @@ group :assets do
 end
 
 gem 'jquery-rails'
+
+gem 'omniauth'
+gem 'omniauth-fitbit'
+gem 'awesome_print'

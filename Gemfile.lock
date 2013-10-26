@@ -64,6 +64,9 @@ GEM
     omniauth-oauth (1.0.1)
       oauth
       omniauth (~> 1.0)
+    omniauth-withings (1.0.3)
+      multi_xml
+      omniauth (~> 1.0)
     polyglot (0.3.3)
     rack (1.4.5)
     rack-cache (1.2)
@@ -120,6 +123,7 @@ DEPENDENCIES
   jquery-rails
   omniauth
   omniauth-fitbit
+  omniauth-withings
   rails (= 3.2.14)
   sass-rails (~> 3.2.3)
   sqlite3

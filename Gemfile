@@ -24,4 +24,5 @@ gem 'jquery-rails'
 
 gem 'omniauth'
 gem 'omniauth-fitbit'
+gem 'omniauth-withings'
 gem 'awesome_print'
